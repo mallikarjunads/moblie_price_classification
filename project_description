@@ -1,0 +1,14 @@
+Mobile Price Classification is a dataset used for predictive modeling and machine learning tasks, specifically to predict the price range of mobile devices based on their features.
+
+The dataset typically includes attributes such as:
+
+- RAM
+- Storage
+- Battery capacity
+- Display size
+- Resolution
+- Processor speed
+- Number of cameras
+- Operating System
+
+The goal is to classify mobile devices into price ranges (e.g., low, mid, high) based on these features.
